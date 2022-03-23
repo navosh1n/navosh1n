@@ -49,9 +49,11 @@ B2B каршеринг сервис | Разработка статистики 
 Корпоративный портал банка | Разработка новых элементов конструктора | Frontend разработчик | JavaScript, React, Redux, Next, Express, stylus, Redux Thunk
 Платформа для кредитных операторов | Разработка личного кабинета владельца карты рассрочки | Frontend разработчик | React, Redux, Less, TypeScript, Redux saga
 Внутренняя платформа для обучения | Разработка нового функционала, рефакторинг | Frontend разработчик | JavaScript, TypeScript, React, Redux, SCSS, Redux saga, Redux thunk
-Интернет-магазин | Разработка нового функционала, исправление дефектов | Frontend разработчик | TypeScript, Vue.js, Vuex, SCSS, SSR
+Интернет-магазин спортивных товаров | Разработка нового функционала, исправление дефектов | Frontend разработчик | TypeScript, Vue.js, Vuex, SCSS, SSR
 Конструктор опросов | Разработка новых элементов конструктора, рефакторинг | Frontend разработчик | TypeScript, Vue.js, Vuex, SCSS
 Конструктор email-рассылок | Разработка новых элементов конструктора, рефакторинг | Frontend разработчик | TypeScript, Vue.js, Vuex, SCSS
+Один из крупнейших интернет-магазинов в России и СНГ | Разработка нового функционала, исправление дефектов, R&D | Frontend разработчик | JavaScript/TypeScript, Vue.js, Vuex, SSR, CSS
+Интернет-магазин одежды | Разработка нового функционала, исправление дефектов | Frontend разработчик | JavaScript, Vue.js, Vuex, SSR, SCSS
 Сервис для найма/обучения сотрудников | Pet-проект | Frontend разработчик | JavaScript, Vue.js, Vuex, SCSS, Firebase
 </details>
 
